@@ -10,7 +10,7 @@
     "url": "https://github.com/katjuell/nodejs-image-demo.git"
   },
   "keywords": [
-    "nodejs",
+    "nodejs", 
     "bootstrap",
     "express"
   ],
@@ -18,5 +18,8 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "mongoose": "^5.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
   }
 }
